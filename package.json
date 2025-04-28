@@ -10,12 +10,12 @@
     "format": "prettier --write src/"
   },
   "devDependencies": {
-    "@types/node": "^22.13.5",
-    "prettier": "^3.5.2",
-    "typescript": "^5.7.3",
-    "vite": "^6.1.1"
+    "@types/node": "^22.14.1",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.2"
   },
   "dependencies": {
-    "@picocss/pico": "^2.0.6"
+    "@picocss/pico": "^2.1.1"
   }
 }
